@@ -1,4 +1,3 @@
-## Welcome to mdjing's GitHub Pages
 ### Vue实现原理 - 如何实现双向绑定mvvm
 
 #### 几种实现双向数据绑定的方法
