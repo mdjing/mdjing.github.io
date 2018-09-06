@@ -1,7 +1,7 @@
 ## Welcome to mdjing's GitHub Pages
-## Vue实现原理 - 如何实现双向绑定mvvm
+### Vue实现原理 - 如何实现双向绑定mvvm
 
-### 几种实现双向数据绑定的方法
+#### 几种实现双向数据绑定的方法
 
 1、发布者-订阅者模式（backbone.js）
 
