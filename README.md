@@ -1,8 +1,5 @@
 ## Welcome to mdjing's GitHub Pages
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Vue实现原理 - 如何实现双向绑定mvvm
 
 ```markdown
 Syntax highlighted code block
