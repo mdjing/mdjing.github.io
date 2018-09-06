@@ -7,7 +7,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Vue实现原理 - 如何实现双向绑定mvvm
 ## 几种实现双向数据绑定的方法
 
 1、发布者-订阅者模式（backbone.js）
@@ -31,4 +30,24 @@ Syntax highlighted code block
 ### 数据劫持
     vue.js 则是采用数据劫持结合发布者-订阅者模式的方式，通过Object.defineProperty()来劫持各个属性的setter，getter，在数据变动时发布消息给订阅者，触发相应的监听回调。
     
-   <img src=' https://github.com/Tie-Dan/mvvm/raw/master/img/2.png'></img>
+   <img src=' https://github.com/Tie-Dan/mvvm/raw/master/img/2.png'>
+   - Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mdjing/mdjing.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
